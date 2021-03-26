@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC4E8DDB-9929-4A58-B9DE-F1695C27269A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kinoteatr</RootNamespace>
+    <AssemblyName>Kinoteatr</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_Connection_DB.cs" />
+    <Compile Include="Export_Word_Excel.cs" />
+    <Compile Include="Form_Aficha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Aficha.Designer.cs">
+      <DependentUpon>Form_Aficha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Autorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Autorization.Designer.cs">
+      <DependentUpon>Form_Autorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Add_Sotrudcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Add_Sotrudcs.Designer.cs">
+      <DependentUpon>Form_Add_Sotrudcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Bilets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Bilets.Designer.cs">
+      <DependentUpon>Form_Bilets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Connect_DB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Connect_DB.Designer.cs">
+      <DependentUpon>Form_Connect_DB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Del_Film.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Del_Film.Designer.cs">
+      <DependentUpon>Form_Del_Film.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Del_Sot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Del_Sot.Designer.cs">
+      <DependentUpon>Form_Del_Sot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Dolj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Dolj.Designer.cs">
+      <DependentUpon>Form_Dolj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Dolj_Upd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Dolj_Upd.Designer.cs">
+      <DependentUpon>Form_Dolj_Upd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Klient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Klient.Designer.cs">
+      <DependentUpon>Form_Klient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Menu.Designer.cs">
+      <DependentUpon>Form_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_New_Film.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_New_Film.Designer.cs">
+      <DependentUpon>Form_New_Film.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_New_Sell_Bilets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_New_Sell_Bilets.Designer.cs">
+      <DependentUpon>Form_New_Sell_Bilets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Registry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Registry.Designer.cs">
+      <DependentUpon>Form_Registry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Sotrud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Sotrud.Designer.cs">
+      <DependentUpon>Form_Sotrud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Zastavka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Zastavka.Designer.cs">
+      <DependentUpon>Form_Zastavka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pochta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pochta.Designer.cs">
+      <DependentUpon>Pochta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proverka_Programs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proverka_Programs.Designer.cs">
+      <DependentUpon>Proverka_Programs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs" />
+    <EmbeddedResource Include="Form_Add_Sotrudcs.resx">
+      <DependentUpon>Form_Add_Sotrudcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Aficha.resx">
+      <DependentUpon>Form_Aficha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Autorization.resx">
+      <DependentUpon>Form_Autorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Bilets.resx">
+      <DependentUpon>Form_Bilets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Connect_DB.resx">
+      <DependentUpon>Form_Connect_DB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Del_Film.resx">
+      <DependentUpon>Form_Del_Film.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Del_Sot.resx">
+      <DependentUpon>Form_Del_Sot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Dolj.resx">
+      <DependentUpon>Form_Dolj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Dolj_Upd.resx">
+      <DependentUpon>Form_Dolj_Upd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Klient.resx">
+      <DependentUpon>Form_Klient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Menu.resx">
+      <DependentUpon>Form_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_New_Film.resx">
+      <DependentUpon>Form_New_Film.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_New_Sell_Bilets.resx">
+      <DependentUpon>Form_New_Sell_Bilets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Registry.resx">
+      <DependentUpon>Form_Registry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Sotrud.resx">
+      <DependentUpon>Form_Sotrud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Zastavka.resx">
+      <DependentUpon>Form_Zastavka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pochta.resx">
+      <DependentUpon>Pochta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Proverka_Programs.resx">
+      <DependentUpon>Proverka_Programs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

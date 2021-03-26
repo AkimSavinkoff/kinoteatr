@@ -1,0 +1,105 @@
+C:\Users\Refi\source\repos\Kinoteatr\bin\Debug\Kinoteatr.exe.config
+C:\Users\Refi\source\repos\Kinoteatr\bin\Debug\Kinoteatr.exe
+C:\Users\Refi\source\repos\Kinoteatr\bin\Debug\Kinoteatr.pdb
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.csprojAssemblyReference.cache
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Autorization.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Menu.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Registry.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Properties.Resources.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.csproj.GenerateResource.cache
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.csproj.CoreCompileInputs.cache
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.exe
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.pdb
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Add_Sotrudcs.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Sot.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj_Upd.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Sotrud.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.csproj.ResolveComReference.cache
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Aficha.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Film.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Film.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Connect_DB.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Klient.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_Bilets.resources
+C:\Users\Refi\source\repos\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Sell_Bilets.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\bin\Debug\Kinoteatr.exe.config
+C:\Users\Refi\Desktop\Курс\Kinoteatr\bin\Debug\Kinoteatr.exe
+C:\Users\Refi\Desktop\Курс\Kinoteatr\bin\Debug\Kinoteatr.pdb
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.csprojAssemblyReference.cache
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.csproj.ResolveComReference.cache
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Add_Sotrudcs.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Aficha.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Autorization.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Bilets.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Connect_DB.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Film.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Sot.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj_Upd.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Klient.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Menu.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Film.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Sell_Bilets.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Registry.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Sotrud.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Properties.Resources.resources
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.csproj.GenerateResource.cache
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.csproj.CoreCompileInputs.cache
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.exe
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.pdb
+C:\Users\Refi\Desktop\Курс\Kinoteatr\obj\Debug\Kinoteatr.Form_Zastavka.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\bin\Debug\Kinoteatr.exe.config
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\bin\Debug\Kinoteatr.exe
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\bin\Debug\Kinoteatr.pdb
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.csprojAssemblyReference.cache
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.csproj.ResolveComReference.cache
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Add_Sotrudcs.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Aficha.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Autorization.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Bilets.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Connect_DB.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Film.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Sot.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj_Upd.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Klient.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Menu.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Film.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Sell_Bilets.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Registry.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Sotrud.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Form_Zastavka.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Pochta.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Properties.Resources.resources
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.csproj.GenerateResource.cache
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.csproj.CoreCompileInputs.cache
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.exe
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.pdb
+C:\Users\Refi\Desktop\Работа учеба\Кинотеатр\Kinoteatr\obj\Debug\Kinoteatr.Proverka_Programs.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\bin\Debug\Kinoteatr.exe.config
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\bin\Debug\Kinoteatr.exe
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Add_Sotrudcs.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Aficha.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Autorization.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Bilets.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Connect_DB.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Film.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Del_Sot.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Dolj_Upd.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Klient.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Menu.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Film.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_New_Sell_Bilets.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Registry.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Sotrud.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Form_Zastavka.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Pochta.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Properties.Resources.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.Proverka_Programs.resources
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.exe
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\obj\Debug\Kinoteatr.pdb
+C:\Users\User\Desktop\Практика 02.1 03.01 04.01\КП СиППООН\КП\Программа\Kinoteatr\bin\Debug\Kinoteatr.pdb
